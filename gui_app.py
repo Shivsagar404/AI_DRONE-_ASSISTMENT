@@ -1,10 +1,3 @@
-print("=" * 50)
-print("🚁 AI DRONE FAULT DIAGNOSIS ASSISTANT")
-print("=" * 50)
-print("Version : V2.0")
-print("Developer : Shiv")
-print("ML Model : Decision Tree Classifier")
-print("=" * 50)
 import tkinter as tk
 from tkinter import ttk
 import pickle
