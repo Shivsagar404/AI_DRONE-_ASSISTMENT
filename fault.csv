@@ -1,0 +1,12 @@
+symptom,fault,solution
+yaw right,Compass Calibration Error,Recalibrate compass using Mission Planner
+yaw right vibration,Wrong Motor Direction,Verify CW and CCW motor rotation
+yaw right motor hot,ESC Calibration Issue,Calibrate all ESCs
+gps not lock,GPS Antenna Issue,Check GPS wiring and antenna placement
+gps hdop high,Poor GPS Signal,Move to open area away from buildings
+vibration,Damaged Propeller,Replace damaged propeller
+vibration,Loose Frame Screw,Tighten all frame screws
+motor overheating,ESC Fault,Check ESC current and temperature
+motor overheating,Bearing Damage,Inspect motor bearing and shaft
+battery voltage low,Battery Degradation,Replace LiPo battery
+takeoff flip,Wrong Propeller Installation,Verify propeller orientation

@@ -1,0 +1,12 @@
+yaw,gps,motor_hot,vibration,fault
+1,0,0,0,Compass
+1,1,0,0,GPS
+1,0,1,0,ESC
+1,0,0,1,MotorDirection
+0,1,0,0,GPS
+0,0,1,0,ESC
+0,0,0,1,Propeller
+1,1,1,0,ESC
+1,1,0,1,MotorDirection
+0,1,1,0,ESC
+0,0,1,1,Propeller
